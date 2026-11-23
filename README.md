@@ -17,9 +17,9 @@ Todo el programa está hecho sin `delay()`, usando hilos (ArduinoThread), interr
 
 ## 2. Montaje del circuito
 
-![Montaje del circuito, vista frontal](img/montaje1.jpeg)
+<img width="1600" height="1200" alt="WhatsApp Image 2026-11-23 at 19 15 18(1)" src="https://github.com/user-attachments/assets/2674c5be-81f0-4d75-bd39-0cb123d04a8e" />
 
-![Montaje del circuito, vista superior](img/montaje2.jpeg)
+<img width="1600" height="1200" alt="WhatsApp Image 2026-11-23 at 19 15 18" src="https://github.com/user-attachments/assets/059b9659-772e-4843-a8cc-ec5c31ac52a1" />
 
 *Figura 1. Montaje de la máquina expendedora sobre la protoboard.*
 
@@ -64,7 +64,7 @@ NOTAS:
 
 El esquema se ha realizado con Fritzing, replicando el montaje real.
 
-![Esquema en Fritzing](img/p3setr.png)
+<img width="2804" height="1928" alt="p3setr" src="https://github.com/user-attachments/assets/49f77d1a-68c6-4236-831d-1d22113c245e" />
 
 *Figura 2. Esquema de conexiones realizado en Fritzing.*
 
