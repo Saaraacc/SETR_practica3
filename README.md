@@ -182,3 +182,7 @@ Para comprobar que funciona, forcé un bloqueo con un bucle infinito (`while (tr
 ## 5. Conclusiones
 
 Como resultado he conseguido programar una máquina expendedora que cumple con todos los requisitos y responde al instante sin bloquearse. Organizarla con una máquina de estados ha hecho que el código fuera fácil de ampliar con nuevos modos o pantallas.
+
+## 6. Vídeo funcionamiento
+
+https://github.com/user-attachments/assets/f9cc95a4-1422-433c-9155-cc7c3c48ec50
