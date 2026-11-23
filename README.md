@@ -17,9 +17,9 @@ Todo el programa está hecho sin `delay()`, usando hilos (ArduinoThread), interr
 
 ## 2. Montaje del circuito
 
-fotooooooooooooooo circuito
+![Montaje del circuito, vista frontal](img/montaje1.jpeg)
 
-foto circuitooooooooooo
+![Montaje del circuito, vista superior](img/montaje2.jpeg)
 
 *Figura 1. Montaje de la máquina expendedora sobre la protoboard.*
 
@@ -64,7 +64,7 @@ NOTAS:
 
 El esquema se ha realizado con Fritzing, replicando el montaje real.
 
-fotooooooooooo Fritzing
+![Esquema en Fritzing](img/p3setr.png)
 
 *Figura 2. Esquema de conexiones realizado en Fritzing.*
 
